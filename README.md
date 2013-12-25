@@ -9,3 +9,10 @@
 
 具体算法参考[这里](http://www.cnblogs.com/siegfang/archive/2012/07/26/2609390.html)
 
+## 注意事项
+
+运行前，请确认Image文件夹已放在与源程序同路径的文件夹下
+
+## 程序界面
+
+![程序界面](http://images.cnblogs.com/cnblogs_com/siegfang/543577/o_checkboard.png)
